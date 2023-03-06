@@ -2,8 +2,8 @@
 ==========
 
 
-Requirements
-------------
+- *Requirements*
+
 
 - Docker
 - python3 (=> 3.6 version)
@@ -26,8 +26,8 @@ docker-compose up --build or docker-compose up -d
 *Back-end*
 ---------
 
- API description
-----------------
+- API description
+
 
 Architecture
 
@@ -107,7 +107,7 @@ pip install -r requirements.txt
 python3 app.py
 ```
 
-- Swagger UI
+*Swagger UI*
 
 .. image:: swagger.png
    :width: 600 
@@ -131,7 +131,7 @@ It's composed of three parts:
 When you run the docker command, it runs the APi, the web and mobile parts.
 
 
-*Frontend : Web and Mobile*
+- *Frontend : Web and Mobile*
 
     *WEB : Vue js*
 Architecture
@@ -218,11 +218,11 @@ Architecture
 
 To run manually the web :
 
-.. code-block:: console
+```
    (.venv) $ cd frontend/area-frontend-web
    (.venv) $ npm install
    (.venv) $ npm run dev
-
+```
 
 The web url: http://172.18.0.1:8081/
 
