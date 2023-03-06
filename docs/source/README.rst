@@ -31,7 +31,15 @@ docker-compose up --build or docker-compose up -d
 
 Architecture
 
-.|br|├── about.json|br|├── app.json|br|├── app.py|br|├── creds.json
+.
+
+├── about.json
+
+├── app.json
+
+├── app.py
+
+├── creds.json
 
 ├── docker-compose.yml
 
@@ -210,10 +218,12 @@ Architecture
 
 To run manually the web :
 
-```
-   $ cd frontend/area-frontend-web
-   $ npm install
-   $ npm run dev
+```sh
+   cd frontend/area-frontend-web
+   
+   npm install
+   
+   npm run dev
 ```
 
 The web url: http://172.18.0.1:8081/
