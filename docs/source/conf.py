@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Area Doc'
+copyright = '2022, BINKS'
+author = 'fadjoker13'
 
 release = '0.1'
 version = '0.1.0'
