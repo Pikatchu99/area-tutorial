@@ -19,7 +19,7 @@ First, You need to install `Docker <https://hub.docker.com/search?offering=commu
 
 Then run the command below in the root directory:
 
-```sh
+```
 docker-compose up --build or docker-compose up -d
 ```
 
@@ -218,12 +218,12 @@ Architecture
 
 To run manually the web :
 
-```sh
-   cd frontend/area-frontend-web
+```bash
+cd frontend/area-frontend-web
    
-   npm install
+npm install
    
-   npm run dev
+npm run dev
 ```
 
 The web url: http://172.18.0.1:8081/
