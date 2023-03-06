@@ -215,9 +215,9 @@ To run manually the web :
 
 .. code-block:: console
 
-$ cd frontend/area-frontend-web
-$ npm install
-$ npm run dev
+(.venv) $ cd frontend/area-frontend-web
+(.venv) $ npm install
+(.venv) $ npm run dev
 
 
 The web url: http://172.18.0.1:8081/
