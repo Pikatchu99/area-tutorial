@@ -1,5 +1,5 @@
 III. **Project structure** 
-     ===================
+=========================
 
 The project is structured in 3 directories each one contains the code for the  
 

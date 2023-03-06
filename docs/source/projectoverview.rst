@@ -26,7 +26,7 @@ This project uses the following languages:
 
 
 II. **Libraries used** 
-      ==============
+====================
 
 For the design of the web application, this project uses the Bootstrap. 
 This allows the use of custom classes for a better control of the css.
