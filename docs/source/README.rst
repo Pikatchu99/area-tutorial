@@ -240,7 +240,11 @@ flutter run
 
 It must display like this:
 
-![mob_1.jpeg](mob_1.jpeg)
-![mob_2.jpeg](mob_2.jpeg)
-![mob_3.jpeg](mob_3.jpeg)
-![mob_4.jpeg](mob_4.jpeg)
+.. image:: mob_1.jpeg
+   :width: 600 
+.. image:: mob_2.jpeg
+   :width: 600 
+.. image:: mob_3.jpeg
+   :width: 600 
+.. image:: mob_4.jpeg
+      :width: 600 
