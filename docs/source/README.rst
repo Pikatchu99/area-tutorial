@@ -218,12 +218,13 @@ Architecture
 
 To run manually the web :
 
-```bash
+```
 cd frontend/area-frontend-web
    
 npm install
    
 npm run dev
+
 ```
 
 The web url: http://172.18.0.1:8081/
