@@ -31,15 +31,7 @@ docker-compose up --build or docker-compose up -d
 
 Architecture
 
-.
-
-├── about.json
-
-├── app.json
-
-├── app.py
-
-├── creds.json
+.|br|├── about.json|br|├── app.json|br|├── app.py|br|├── creds.json
 
 ├── docker-compose.yml
 
@@ -136,8 +128,11 @@ When you run the docker command, it runs the APi, the web and mobile parts.
     *WEB : Vue js*
 Architecture
 .
+
 ├── assets
+
 ├── client.apk
+
 ├── DockerfileNpm
 
 ├── index.html
