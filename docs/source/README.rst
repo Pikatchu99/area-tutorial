@@ -213,11 +213,12 @@ Architecture
 
 To run manually the web :
 
-```bash
-cd frontend/area-frontend-web
-npm install
-npm run dev
-```
+.. code-block:: console
+
+$ cd frontend/area-frontend-web
+$ npm install
+$ npm run dev
+
 
 The web url: http://172.18.0.1:8081/
 
@@ -231,7 +232,7 @@ To run manually the mobile :
 
 Make sur to connect your phone before continue
 
-```bash
+```
 cd frontend/area-frontend-mobile/area_mobile
 flutter pub get
 flutter run
