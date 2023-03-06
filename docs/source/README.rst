@@ -2,7 +2,8 @@
 ==========
 
 
-## Requirements
+Requirements
+------------
 
 - Docker
 - python3 (=> 3.6 version)
@@ -11,7 +12,8 @@
 - Vue and Node Js
 - Dart and Flutter
 
-## Setup
+*Setup*
+-----
 
 First, You need to install `Docker <https://hub.docker.com/search?offering=community&q=&type=edition&operating_system=linux%2Cwindows%2Cmac>`_
 
@@ -21,9 +23,11 @@ Then run the command below in the root directory:
 docker-compose up --build or docker-compose up -d
 ```
 
-## Back-end
+*Back-end*
+---------
 
-#### API description
+ API description
+----------------
 
 Architecture
 
@@ -103,9 +107,10 @@ pip install -r requirements.txt
 python3 app.py
 ```
 
-- #### Swagger UI
+- Swagger UI
 
-![swagger.png](swagger.png)
+.. image:: swagger.png
+   :width: 600 
 
 Hosted Locally
 http://127.0.0.1:8080/swagger/
@@ -126,9 +131,9 @@ It's composed of three parts:
 When you run the docker command, it runs the APi, the web and mobile parts.
 
 
-## Frontend : Web and Mobile
+*Frontend : Web and Mobile*
 
-#### WEB : Vue js
+    *WEB : Vue js*
 Architecture
 .
 
@@ -214,17 +219,17 @@ Architecture
 To run manually the web :
 
 .. code-block:: console
-
-(.venv) $ cd frontend/area-frontend-web
-(.venv) $ npm install
-(.venv) $ npm run dev
+   (.venv) $ cd frontend/area-frontend-web
+   (.venv) $ npm install
+   (.venv) $ npm run dev
 
 
 The web url: http://172.18.0.1:8081/
 
 It must display like this:
 
-![web.png](web.png)
+.. image:: web.png
+   :width: 600 
 
 #### MOBILE : Dart and Flutter
 
