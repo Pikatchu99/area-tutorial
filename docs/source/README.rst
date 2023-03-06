@@ -13,7 +13,7 @@
 
 ## Setup
 
-First, You need to install [Docker](https://hub.docker.com/search?offering=community&q=&type=edition&operating_system=linux%2Cwindows%2Cmac)
+First, You need to install `Docker <https://hub.docker.com/search?offering=community&q=&type=edition&operating_system=linux%2Cwindows%2Cmac>`_
 
 Then run the command below in the root directory:
 
