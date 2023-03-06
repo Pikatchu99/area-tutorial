@@ -13,7 +13,7 @@
 - Dart and Flutter
 
 *Setup*
------
+
 
 First, You need to install `Docker <https://hub.docker.com/search?offering=community&q=&type=edition&operating_system=linux%2Cwindows%2Cmac>`_
 
@@ -24,9 +24,9 @@ docker-compose up --build or docker-compose up -d
 ```
 
 *Back-end*
----------
 
-- API description
+
+- *API description*
 
 
 Architecture
@@ -136,11 +136,8 @@ When you run the docker command, it runs the APi, the web and mobile parts.
     *WEB : Vue js*
 Architecture
 .
-
 ├── assets
-
 ├── client.apk
-
 ├── DockerfileNpm
 
 ├── index.html
@@ -219,9 +216,9 @@ Architecture
 To run manually the web :
 
 ```
-   (.venv) $ cd frontend/area-frontend-web
-   (.venv) $ npm install
-   (.venv) $ npm run dev
+   $ cd frontend/area-frontend-web
+   $ npm install
+   $ npm run dev
 ```
 
 The web url: http://172.18.0.1:8081/
