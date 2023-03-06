@@ -3,15 +3,16 @@
 
 This is the documentation for AREA, the last project for Tek3 at Epitech.
 
-.. note::
+.. .. note::
 
-   This project is under active development.
+..    This project is under active development.
+
 
 Contents
 --------
 
 .. toctree::
 
-   projectoverview
+   project_over
    projectstruc
    api
