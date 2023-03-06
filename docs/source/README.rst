@@ -117,19 +117,21 @@ http://127.0.0.1:8080/swagger/
 
 It's composed of three parts:
 
-* [x]  Authentification requests
+*   Authentification requests
    
     Authentification requests includes registration, login, account confirmation, registration or login with google and logout
 
-* [x]  Google Authentification
+*   Google Authentification
 
     Includes login via google and requests for Drive and Gmail
 
-* [x]  Services 
+*   Services 
+  
     Services Include all the services we need for developing AREA project
 
-When you run the docker command, it runs the APi, the web and mobile parts.
 
+
+When you run the docker command, it runs the APi, the web and mobile parts.
 
 - *Frontend : Web and Mobile*
 
