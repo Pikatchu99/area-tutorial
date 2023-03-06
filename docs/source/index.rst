@@ -13,9 +13,4 @@ Summary
 
 .. toctree::
 
-   project_over
-   libraires
-   projectstruc
-   api
-   database
-   build
+   README
