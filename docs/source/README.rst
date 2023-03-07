@@ -2,8 +2,8 @@
 ==========
 
 
-- *Requirements*
-
+*Requirements*
+-------------
 
 - Docker
 - python3 (=> 3.6 version)
@@ -13,7 +13,8 @@
 - Dart and Flutter
 
 
-- *Services used for AREA*
+*Services used for AREA*
+-----------------------
 
 .. image:: Services.png
    :width: 700 
