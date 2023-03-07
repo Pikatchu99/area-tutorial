@@ -269,3 +269,8 @@ It must display like this:
    :width: 600 
 .. image:: mob_4.jpeg
       :width: 600 
+
+
+
+
+**If you want to read more details about AREA, please come `here <https://github.com/EpitechPromo2025/B-DEV-500-COT-5-2-area-yemalin.agbangla/tree/master/Docs>` **
