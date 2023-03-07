@@ -12,6 +12,13 @@
 - Vue and Node Js
 - Dart and Flutter
 
+
+- *Services used for AREA*
+
+.. image:: Services.png
+   :width: 700 
+
+
 *Setup*
 
 
@@ -101,7 +108,7 @@ Architecture
 
 API used is Flask. To run manually Flask: 
 
-```bash
+```
 cd Back-end
 pip install -r requirements.txt
 python3 app.py
