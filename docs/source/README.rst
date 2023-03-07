@@ -273,4 +273,4 @@ It must display like this:
 
 
 
-**If you want to read more details about AREA, please come `here <https://github.com/EpitechPromo2025/B-DEV-500-COT-5-2-area-yemalin.agbangla/tree/master/Docs>`_ **
+If you want to read more details about AREA, please come `here <https://github.com/EpitechPromo2025/B-DEV-500-COT-5-2-area-yemalin.agbangla/tree/master/Docs>`_
